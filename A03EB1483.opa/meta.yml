@@ -1,0 +1,28 @@
+id: A03EB1483
+title: Vimalakīrtinirdeśa
+type: translation
+pechas:
+- I5818BEA8
+- IDAFA6E1A
+- IA067A767
+- I2D45CE66
+- IAD473891
+- IFB6AB663
+- I9C993CC3
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:39:21.650457
+  last_modified_at: 2023-02-09 14:39:21.650473
+alignment_to_base:
+  I5818BEA8/1E2D: 2AD0
+  IDAFA6E1A/323C: 2AD0
+  IA067A767/A1F2: 2AD0
+  I2D45CE66/0CDD: 2AD0
+  IAD473891/DF73: 2AD0
+  IFB6AB663/022F: 2AD0
+  I9C993CC3/356F: 2AD0
